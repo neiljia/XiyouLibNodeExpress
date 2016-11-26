@@ -1,7 +1,7 @@
 XiyouLibNodeExpress
 ===================
 
-### 该API现已由胖萌维护，如有问题，请联系：910739015@qq.com
+### 该API现已由甲鱼维护，如有问题，请联系：jydzsx@163.com
 
 ## 基于Node.js Express框架的西邮图书馆REST API
 
